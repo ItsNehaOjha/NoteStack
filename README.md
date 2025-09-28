@@ -2,8 +2,8 @@
 
 A modern, minimalist notes application built with the MERN stack (MongoDB, Express, React, Node.js) featuring real-time updates and rate limiting.
 
-🔗 **Tutorial (Notion):** [MERN Simplest Notes Guide](https://legend-rhythm-686.notion.site/MERN-Simplest-notes-27bcbc792e0d80d79713e8315bfedfe8)  
-🔗 **Live Demo (Render):** https://your-app-on-render.onrender.com *(replace with actual URL)*  
+🔗 **Tutorial (Notion):** <a href="https://legend-rhythm-686.notion.site/MERN-Simplest-notes-27bcbc792e0d80d79713e8315bfedfe8" target="_blank">MERN Simplest Notes Guide</a>  
+🔗 **Live Demo (Render):** <a href="https://your-app-on-render.onrender.com" target="_blank">Live Demo</a>
 
 
 ## ✨ Features
@@ -103,7 +103,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👥 Contact
 
-Neha Ojha - [@YourTwitter](https://twitter.com/YourTwitter)
+Neha Ojha - [@Linkdin](https://www.linkedin.com/in/neha-ojha0028/)
 
 Project Link: [https://github.com/ItsNehaOjha/NoteStack](https://github.com/ItsNehaOjha/NoteStack)
 
