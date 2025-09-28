@@ -16,7 +16,6 @@ const HomePage = () => {
     const fetchNotes = async () => {
       try {
         const res = await api.get("/notes");
-        await new Promise((resolve) => setTimeout(resolve, 2000));
         console.log(res.data);
         setNotes(res.data);
         setIsRateLimited(false);
